@@ -5,7 +5,7 @@ O modelo conhecido como "Cascata", devido ao encadeamento entre uma fase e outra
 Esse modelo, é um exemplo de processo dirigido a planos, ou seja, antes de começar a executar qualquer atividade, devem ser analisadas, planejadas e estruturadas todas as atividades.
 Geralmente utilizado quando os requisitos do problema em questão são conhecidos, estáveis e claros. Bastante útil em situações em que precisam realizar correções ou com a necessidade de aperfeiçoar um sistema já existente.
 
-
+![Modelo-Cascata](img/waterfall.png)
 
 Como pode ser visto na figura acima, este modelo sugere uma abordagem sistemática e sequencial para o desenvolvimento de software. As principais fases do modelo em cascata refletem diretamente as atividades consideradas fundamentais no desenvolvimento de software.
 
