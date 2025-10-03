@@ -7,7 +7,7 @@ O modelo espiral foi desenvolvido combinando as melhores práticas e caracterís
 
 A principal diferença entre o modelo espiral e outros modelos de processo de software é o reconhecimento explicito do risco. Um Ciclo espiral começa coma definição de objetivos, como desempenho e funcionalidade. Em seguida, são enumeradas *formas alternativas de alcançar tais objetivos e lidar com as restrições de cada um deles*. Cada **alternativa** é avaliada em função de cada **objetivo**, e as **fontes de risco do projeto são identificadas**. O próximo passo é resolver esses riscos por meio de atividades de coleta de informações, ==como uma análise mais detalhada, prototipação e simulação==. 
 
-![[Pasted image 20251002104841.png]]
+![Evolucionario-espiral](img/Evolucionário-Espiral.png)
 
 De acordo com Sommerville, cada volta da espiral é dividida em quatro setores:
 1.  **Definições de objetivos:** objetivos específicos para essa fase do projeto são definidos, restrições ao processo e ao produto são identificados e um plano de gerenciamento detalhado é elaborado identificando riscos para poderem planejar estratégias em função desses riscos.
